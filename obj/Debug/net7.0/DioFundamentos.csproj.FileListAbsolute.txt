@@ -1,0 +1,14 @@
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\bin\Debug\net7.0\DioFundamentos.exe
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\bin\Debug\net7.0\DioFundamentos.deps.json
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\bin\Debug\net7.0\DioFundamentos.runtimeconfig.json
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\bin\Debug\net7.0\DioFundamentos.dll
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\bin\Debug\net7.0\DioFundamentos.pdb
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\DioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\DioFundamentos.AssemblyInfoInputs.cache
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\DioFundamentos.AssemblyInfo.cs
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\DioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\DioFundamentos.dll
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\refint\DioFundamentos.dll
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\DioFundamentos.pdb
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\DioFundamentos.genruntimeconfig.cache
+C:\Users\nicolas.carvalho\Desktop\DioFundamentos\obj\Debug\net7.0\ref\DioFundamentos.dll
